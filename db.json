@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Plan marketing strategy",
+      "description": "Develop a comprehensive marketing strategy for the upcoming quarter.",
+      "status": "todo",
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "title": "Team training session",
+      "description": "Organize a training session for the team on the new project management tool.",
+      "status": "doing",
+      "priority": "medium"
+    },
+    {
+      "id": 3,
+      "title": "Client feedback review",
+      "description": "Analyze feedback from clients and prepare a report with actionable insights.",
+      "status": "done",
+      "priority": "high"
+    },
+    {
+      "id": 4,
+      "title": "Update documentation",
+      "description": "Revise and update the project documentation to reflect recent changes.",
+      "status": "todo",
+      "priority": "low"
+    },
+    {
+      "id": 5,
+      "title": "Bug fixing",
+      "description": "Identify and resolve critical bugs reported in the latest release.",
+      "status": "doing",
+      "priority": "high"
+    }
+  ]
+}
