@@ -1,5 +1,6 @@
 import { Box, Flex, Heading } from "@radix-ui/themes"
 import { CreateTaskForm } from "./components/CreateTaskForm"
+import { TaskBoard } from "./components/TaskBoard"
 
 function App() {
 
@@ -12,7 +13,8 @@ function App() {
         </Flex>
       </Box>
       <Box>
-        <Heading as="h2">Task Board</Heading>
+        <Heading as="h2" mb="4">Task Board</Heading>
+        <TaskBoard />
       </Box>
     </Box>
   )
