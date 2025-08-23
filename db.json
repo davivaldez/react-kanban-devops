@@ -1,37 +1,51 @@
 {
   "tasks": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Plan marketing strategy",
       "description": "Develop a comprehensive marketing strategy for the upcoming quarter.",
-      "status": "todo",
+      "status": "done",
       "priority": "high"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Team training session",
       "description": "Organize a training session for the team on the new project management tool.",
       "status": "doing",
       "priority": "medium"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Client feedback review",
       "description": "Analyze feedback from clients and prepare a report with actionable insights.",
       "status": "done",
       "priority": "high"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Update documentation",
       "description": "Revise and update the project documentation to reflect recent changes.",
       "status": "todo",
       "priority": "low"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Bug fixing",
       "description": "Identify and resolve critical bugs reported in the latest release.",
+      "status": "doing",
+      "priority": "high"
+    },
+    {
+      "id": "6",
+      "title": "Design new feature",
+      "description": "Create design mockups for the new feature requested by the client.",
+      "status": "todo",
+      "priority": "medium"
+    },
+    {
+      "id": "7",
+      "title": "Performance optimization",
+      "description": "Optimize the application performance to improve load times and responsiveness.",
       "status": "doing",
       "priority": "high"
     }
